@@ -395,7 +395,7 @@ const Home = (props: HomeProps) => {
                 <meta property="og:description"
                     content="
    🏷️Sale Info
-    ▶ Mint Price: 2.5 SOL
+    ▶ Mint Price: 1.5 SOL
     ▶ Supply: 5,555
 
     ❗ Mint will be on 𝗠𝗮𝗴𝗶𝗰𝗘𝗱𝗲𝗻 𝗼𝗻𝗹𝘆. ALL others ARE 𝗙𝗔𝗞𝗘/𝗦𝗖𝗔𝗠!
@@ -1385,7 +1385,7 @@ const Home = (props: HomeProps) => {
                       
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
-                        <span className="tw-font-bold">2.5 ◎</span>
+                        <span className="tw-font-bold">1.5 ◎</span>
                       </div>
                       <div className="tw-flex tw-items-center tw-gap-2">
                         <div
@@ -1522,7 +1522,7 @@ const Home = (props: HomeProps) => {
                                                                     </span>
                                                                     <b>•</b>
                                                                     <span>
-                                                                        Price <b>2.25◎</b>
+                                                                        Price <b>1.25◎</b>
                                                                     </span>
                                                                 </div>
                                                             </div>
@@ -1556,7 +1556,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>2.5◎</b>
+                              Price <b>1.5◎</b>
                             </span>
                           </div>
                         </div>
